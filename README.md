@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aaron
+- 👀 I’m interested in data analytics/data science
+- 🌱 I’m currently learning management information systems, and plan on pursuing post-graduate education in applied statistics or data science
+- 📫 To reach me, feel free to send an email to aaronn6831@gmail.com :)
